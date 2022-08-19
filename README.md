@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE)]
+![MasterHead](https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE)
 <h1 align="center">Hi 👋, I'm Zishnendu Sarker</h1>
 <h3 align="center">A Cyber Security enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Pxws.gif">
