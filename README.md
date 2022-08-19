@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/450co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="450co" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/httpszishnendu-sarker-5319921b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpszishnendu-sarker-5319921b3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zishnendu-sarker-5319921b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zishnendu-sarker-5319921b3/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2k19co450-zishnendu-sarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2k19co450-zishnendu-sarker" height="30" width="40" /></a>
 <a href="https://kaggle.com/zishnendusarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zishnendusarker" height="30" width="40" /></a>
 <a href="https://fb.com/zishnusarker.zishnusarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zishnusarker.zishnusarker/" height="30" width="40" /></a>
