@@ -1,7 +1,8 @@
-![MasterHead](https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE)
+<img width="100%" height="350" alt="Developer Illustration" src="https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE"/>
+<br />
 <h1 align="center">Hi 👋, I'm Zishnendu Sarker</h1>
 <h3 align="center">A Cyber Security enthusiast</h3>
-<img align="right" alt="Coding" width="400" height="70" src="https://i.gifer.com/Pxws.gif">
+<img align="right" alt="Coding" width="32px"  src="https://i.gifer.com/Pxws.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat" alt="zishnusarker" /> </p>
 
