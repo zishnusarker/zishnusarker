@@ -1,13 +1,10 @@
 <img width="100%" height="350" alt="Developer Illustration" src="https://media-exp2.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=1663200000&v=beta&t=MC4wANQX8uIgE5pKU44_jzotKp80TV43db02OgUM6jE"/>
 <br />
 
-<<<<<<< HEAD
-# <p align="center"> Hey, I'm [Zishnendu Sarker](https://zishnusarker.github.io/Portfolio/)👋🏻
-=======
->>>>>>> ec5bdf3d69a6c8849d82d1c1c1caa66d6b494e87
 
-# <p align="center"> Hey, I'm [Zishnendu Sarker](https://dhruba-datta.netlify.app)👋🏻
-<h2 align="center"> A Cyber Security enthusiast </h2>
+# <p align="center"> Hey, I'm [Zishnendu Sarker](https://zishnusarker.github.io/Portfolio/)👋🏻
+
+<p align="center"> A Cyber Security Enthusiast </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat" alt="zishnusarker" /> </p>
