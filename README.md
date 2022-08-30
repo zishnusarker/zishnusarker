@@ -2,8 +2,8 @@
 <br />
 
 
-# <p align="center"> Hey, I'm [Zishnendu Sarker](zishnusarker.github.io/portfolio)👋🏻
-<h2 align="center"> A Cyber Security enthusiast </h2>
+# <p align="center"> Hey, I'm [Zishnendu Sarker](https://zishnusarker.github.io/Portfolio/)👋🏻
+<p align="center"> A Cyber Security Enthusiast </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat" alt="zishnusarker" /> </p>
