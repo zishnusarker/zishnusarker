@@ -2,7 +2,7 @@
 <br />
 
 
-# <p align="center"> Hey, I'm [Zishnendu Sarker](https://dhruba-datta.netlify.app)👋🏻
+# <p align="center"> Hey, I'm [Zishnendu Sarker](zishnusarker.github.io/portfolio/)👋🏻
 <h2 align="center"> A Cyber Security enthusiast </h2>
 
 
