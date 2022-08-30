@@ -11,10 +11,9 @@
 * 🔭 I’m currently working on **My 100 Days challenge of python project**
 * 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Machine Learning**
 * 💬 Ask me about **Android, JSS, Cryptography, Tech**
-* 📫 How to reach me [zzisshnusarker@gmail.com](mailto:zzisshnusarker@gmail.com)
-* ⚡ Fun fact **I am realistic**
-* 🧾 My [Resume](https://drive.google.com/drive/folders/1QGjYTDHWgpgEZgrQmbw0EGkNO-Ml2sJO)
-  * my  [resime](https://drive.google.com/file/d/1zcNiJSnGaEBXvjvkqaGHp4zb34YXTbQD/view?usp=sharing)
+* 📫 How to reach me [zzisshnusarker@gmail.com](mailto:zzisshnusarker@gmail.]com)
+* ⚡ Fun fact **I am realistic**]
+* 🧾 My [Resume](https://drive.google.com/file/d/1zcNiJSnGaEBXvjvkqaGHp4zb34YXTbQD/view?usp=sharing)
 
 
 <br />
