@@ -14,6 +14,7 @@
 * 📫 How to reach me [zzisshnusarker@gmail.com](mailto:zzisshnusarker@gmail.com)
 * ⚡ Fun fact **I am realistic**
 * 🧾 My [Resume](https://drive.google.com/drive/folders/1QGjYTDHWgpgEZgrQmbw0EGkNO-Ml2sJO)
+  * my  [resime](https://drive.google.com/file/d/1zcNiJSnGaEBXvjvkqaGHp4zb34YXTbQD/view?usp=sharing)
 
 
 <br />
