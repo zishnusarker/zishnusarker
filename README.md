@@ -39,9 +39,12 @@
 
 ## Github Status:
 
-<p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker" alt="zishnusarker" /></a> </p>
+<!-- <p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></a> </p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=zishnusarker&hide_border=true" alt="zishnusarker" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=zishnusarker&hide_border=true&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishnusarker&show_icons=true&locale=en&layout=compact" alt="zishnusarker" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zishnusarker&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=3498db" alt="zishnusarker" /></p> -->
 
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zishnusarker&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="zishnusarker" /> 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zishnusarker&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="zishnusarker" />
