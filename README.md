@@ -39,7 +39,7 @@
 
 ## Github Status:
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker" alt="zishnusarker" /></a> </p>
+<p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=zishnusarker" alt="zishnusarker" /></a> </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=zishnusarker&hide_border=true" alt="zishnusarker" /></p>
 
