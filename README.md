@@ -3,7 +3,7 @@
 
 
 # <p align="center"> Hey, I'm [Zishnendu Sarker](https://zishnusarker.github.io/Portfolio/)👋🏻
-<p align="center"> **Fresh Graduate | Computer Engineer | Scholarship Holder from ICCR | ML & AI | Full Stack Developer | Cyber Security Entuthiasist | Robotics | Programmer | DTU'23** </p>
+<p align="center"> <b> Fresh Graduate | Computer Engineer | Scholarship Holder from ICCR | ML & AI | Full Stack Developer | Cyber Security Entuthiasist | Robotics | Programmer | DTU'23** </b> </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat" alt="zishnusarker" /> </p>
