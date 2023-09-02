@@ -8,11 +8,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat" alt="zishnusarker" /> </p>
 
-* 🔭 I’m currently working on **My 100 Days challenge of python project**
-* 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Machine Learning**
-* 💬 Ask me about **Android, JSS, Cryptography, Tech**
+* 🔭 I’m currently working on **My 100 Days challenge of python project && Ethical Hacking**
+* 🌱 I’m currently learning **Cyber Security, Ethical Hacking, Machine Learning, AI & Deep Learning**
+* 💬 Ask me about **JSS, Web Development, ML & AI, Cryptography, Android, Tech**
 * 📫 How to reach me [zzisshnusarker@gmail.com](mailto:zzisshnusarker@gmail.]com)
-* ⚡ Fun fact **I am realistic**]
+* ⚡ Fun fact **I am realistic**
 * 🧾 My [Resume](https://drive.google.com/file/d/1zcNiJSnGaEBXvjvkqaGHp4zb34YXTbQD/view?usp=sharing)
 
 
