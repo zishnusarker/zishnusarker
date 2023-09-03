@@ -13,7 +13,7 @@
 * 💬 Ask me about **JSS, Web Development, ML & AI, Cryptography, Android, Tech**
 * 📫 How to reach me [zzisshnusarker@gmail.com](mailto:zzisshnusarker@gmail.]com)
 * ⚡ Fun fact **I am realistic**
-* 🧾 My [Resume](https://drive.google.com/drive/folders/1wR4F16Xg7cgJrjohX7ni8oHM582c_Y0Z)
+* 🧾 My [Resume](https://drive.google.com/file/d/1-79tqgEaUgyLyaRftgewv7nLBhE4Zorh/view?usp=sharing)
 
 
 <br />
