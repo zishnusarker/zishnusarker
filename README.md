@@ -58,8 +58,6 @@ Production-quality security tools built from scratch:
 | 🔑 | [**Password Security Toolkit**](https://github.com/zishnusarker/password-security-toolkit) | Password strength analysis, hash cracking, secure generation, HIBP breach checking | Python |
 | 🛡️ | [**PhishGuard 2.0**](https://github.com/zishnusarker/PhishGuard-Web-2.0) | Browser extension for real-time phishing detection using URL heuristics + entropy analysis | JS, Chrome MV3 |
 
-> Each project includes working code, unit tests, and interview-ready documentation.
-
 ---
 
 ### 🧠 Machine Learning & AI Projects
