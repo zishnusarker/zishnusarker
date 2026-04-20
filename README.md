@@ -27,10 +27,9 @@
 Software Engineer transitioning into **Cybersecurity** with 2 years of professional development experience and a **Professional Masters in Information & Cyber Security** from the **University of Dhaka**. Certified **CCNA** and **CEH**, with hands-on experience in network security analysis, SIEM operations, threat detection, and Python-based security tool development.
 
 - 🔐 **Research Assistant** at University of Dhaka - working on AI-driven phishing detection
-- 📄 **4 research publications** including 2 in IEEE Xplore
-- 🎓 **M.Sc. in Cyber Security** (DU, CGPA: 3.79/4.00) · **B.Tech in CSE** (DTU, CGPA: 8.24/10)
+- 📄 **3 research publications** including 2 in IEEE Xplore
+- 🎓 **M.Sc. in Cyber Security** (DU, CGPA: 3.79/4.00) · **B.Tech in CSE** (DTU, CGPA: 8.24/10))
 - 🏆 **ICCR Full Scholarship** from the Government of India for B.Tech
-- 🤖 Former **ML Lead** - Inferno DTU Mars Rover Team (Global Rank 6, URC)
 - 🎯 Seeking **SOC Analyst / Cyber Security Analyst / Network Engineer** roles
 
 ---
