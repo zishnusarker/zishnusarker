@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/eShikhon-CEH-FF0000?style=flat-square&logo=hackthebox&logoColor=white" alt="CEH"/>
+  <img src="https://img.shields.io/badge/CEH-Certified-FF0000?style=flat-square&logo=hackthebox&logoColor=white" alt="CEH"/>
   <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
