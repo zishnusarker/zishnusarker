@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/CEH-Certified-FF0000?style=flat-square&logo=hackthebox&logoColor=white" alt="CEH"/>
+  <img src="https://img.shields.io/badge/eShikhon-CEH-FF0000?style=flat-square&logo=hackthebox&logoColor=white" alt="CEH"/>
   <img src="https://komarev.com/ghpvc/?username=zishnusarker&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
@@ -38,7 +38,7 @@ Software Engineer transitioning into **Cybersecurity** with 2 years of professio
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/EC--Council-CEH-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CEH"/>
+  <img src="https://img.shields.io/badge/eShikhon-CEH-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CEH"/>
   <img src="https://img.shields.io/badge/Stanford-Cryptography%20I-8C1515?style=for-the-badge&logo=coursera&logoColor=white" alt="Cryptography"/>
   <img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
   <img src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Python"/>
